@@ -1,0 +1,31 @@
+Sure, here's the proposed content for the file `/fish-clicker-game/fish-clicker-game/src/models/fish/data.json`:
+
+{
+  "fish": [
+    {
+      "type": "Goldfish",
+      "pointValue": 10,
+      "color": "orange"
+    },
+    {
+      "type": "Clownfish",
+      "pointValue": 15,
+      "color": "striped"
+    },
+    {
+      "type": "Tuna",
+      "pointValue": 20,
+      "color": "blue"
+    },
+    {
+      "type": "Shark",
+      "pointValue": 50,
+      "color": "grey"
+    },
+    {
+      "type": "Angelfish",
+      "pointValue": 25,
+      "color": "yellow"
+    }
+  ]
+}
